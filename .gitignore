@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Project specific
+data/*.sqlite
+*.log
+
+# macOS
+.DS_Store
+._*
